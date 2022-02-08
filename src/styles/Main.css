@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main h1 {
+  color: #af0202;
+}
+.main button {
+  width: 200px;
+  height: 40px;
+  background-color: blue;
+  border: none;
+  border-radius: 8px;
+  color: #e8e8e8;
+  font-size: 35px;
+}/*# sourceMappingURL=Main.css.map */
